@@ -3,6 +3,5 @@ description: Open research hub on Tamil Nadu's fare-free bus travel for women & 
 url: https://ungalsoththu.github.io/VetriPayanam
 exclude:
   - README.md
-  - data
   - scripts
   - assets
