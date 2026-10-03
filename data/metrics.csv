@@ -1,0 +1,12 @@
+date,metric,value,unit,phase,source_url,note
+2021-05-01,scheme_launch,1,flag,vidiyal,https://www.onmanorama.com/travel/travel-news/2026/05/10/joseph-vijay-tamil-nadu-free-bus-scheme.amp.html,women free in ordinary city/town buses 7 STCs
+2026-08-24,announcement_cost_estimate,6000,crore_per_year,vetri,https://www.indiasnews.net/news/279261394/tamil-nadu-cm-vijay-announces-3-free-lpg-cylinders-expands-free-bus-travel-for-women-and-transgenders,Rule 110 Assembly announcement
+2026-09-21,designated_buses,12692,buses,vetri,https://www.indiatoday.in/amp/india/tamil-nadu/story/tamil-nadu-free-bus-travel-women-vetri-payanam-october-2-launch-ptag-2999430-2026-09-21,of 18413 scheduled = 69%
+2026-09-21,scheduled_buses_total,18413,buses,vetri,https://www.indiatoday.in/amp/india/tamil-nadu/story/tamil-nadu-free-bus-travel-women-vetri-payanam-october-2-launch-ptag-2999430-2026-09-21,7 STCs
+2026-09-21,daily_single_trips_scheme,165312,trips_per_day,vetri,https://www.newkerala.com/news/a/tamil-nadu-cm-vijay-reviews-vettri-payanam-free-232.htm,reported as 85% of operations; base 94649 given same source - reconcile
+2026-09-21,projected_daily_riders,84320000,riders_per_day,vetri,https://www.indiatoday.in/amp/india/tamil-nadu/story/tamil-nadu-free-bus-travel-women-vetri-payanam-october-2-launch-ptag-2999430-2026-09-21,women + trans projected
+2026-09-21,etm_linking_status,1,flag,vetri,https://www.indiatoday.in/amp/india/tamil-nadu/story/tamil-nadu-free-bus-travel-women-vetri-payanam-october-2-launch-ptag-2999430-2026-09-21,complete; testing by 25 Sep; trial 27 Sep
+2026-10-02,scheme_launch,1,flag,vetri,https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-launches-vettri-payanam-scheme-expanding-free-bus-travel-for-women/article71536299.ece,Magalir Vettri Payanam launch at Koyambedu
+2026,vidiyal_daily_riders_baseline,7000000,riders_per_day,vidiyal,https://indian.community/news/tamil-nadu-transport-corporations-face-financial-strain-due-to-diesel-price-hike,Transport Dept figure ~70 lakh on 7331 ordinary buses
+2026,vidiyal_ordinary_buses,7331,buses,vidiyal,https://indian.community/news/tamil-nadu-transport-corporations-face-financial-strain-due-to-diesel-price-hike,ordinary buses in scheme
+2026,stc_daily_operational_loss,19,crore_per_day,context,https://indian.community/news/tamil-nadu-transport-corporations-face-financial-strain-due-to-diesel-price-hike,all STCs combined; diesel hike adds 175.58 cr/yr
