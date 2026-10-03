@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} — {% endif %}Vetri Payanam வெற்றி பயணம் — TN Fare-Free Bus Travel Research Hub</title>
+<meta name="description" content="Open research hub monitoring Tamil Nadu's fare-free bus travel for women and transgender persons — Vidiyal Payanam (2021) to Magalir Vetri Payanam (Oct 2026). G.O. ledger, news log, social analysis, metrics.">
+<style>
+  :root { --ink:#1a1a1a; --paper:#faf9f6; --accent:#b3261e; --muted:#5f5b54; --card:#fff; --line:#e4e0d8; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { font-family:Georgia,'Noto Sans Tamil',serif; background:var(--paper); color:var(--ink); line-height:1.6; }
+  nav { background:#fff; border-bottom:1px solid var(--line); padding:.8rem 1.25rem; display:flex; flex-wrap:wrap; gap:.2rem 1.2rem; align-items:baseline; max-width:960px; margin:0 auto; }
+  nav .brand { font-weight:700; text-decoration:none; color:var(--ink); margin-right:.8rem; }
+  nav .brand .ta { color:var(--accent); font-weight:400; }
+  nav a { color:var(--muted); text-decoration:none; font-size:.92rem; }
+  nav a:hover { color:var(--accent); }
+  nav a.active { color:var(--accent); font-weight:700; }
+  .wrap { max-width:880px; margin:0 auto; padding:2.5rem 1.25rem 4rem; }
+  .kicker { font-family:'Noto Sans Tamil',sans-serif; color:var(--accent); font-weight:700; letter-spacing:.08em; text-transform:uppercase; font-size:.8rem; }
+  h1 { font-size:2.2rem; line-height:1.2; margin:.4rem 0 .6rem; }
+  h1 .ta { display:block; font-size:1.4rem; color:var(--muted); font-weight:400; margin-top:.3rem; }
+  .lede { font-size:1.05rem; color:var(--muted); max-width:42rem; }
+  .status { display:table; background:#e8f0e8; color:#2e5d34; border:1px solid #c4dcc6; border-radius:999px; padding:.15rem .8rem; font-size:.8rem; margin-top:1rem; }
+  h2 { font-size:1.15rem; margin:2.2rem 0 .7rem; border-bottom:2px solid var(--accent); display:inline-block; padding-bottom:.15rem; }
+  h3 { font-size:1rem; margin:1.6rem 0 .5rem; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:.8rem; margin-top:1rem; }
+  .card { display:block; background:var(--card); border:1px solid var(--line); border-radius:10px; padding:1rem 1.1rem; text-decoration:none; color:var(--ink); transition:border-color .15s; }
+  .card:hover { border-color:var(--accent); }
+  .card b { display:block; }
+  .card span { font-size:.85rem; color:var(--muted); }
+  table { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); border-radius:10px; overflow:hidden; font-size:.88rem; margin-top:1rem; }
+  th, td { text-align:left; padding:.5rem .7rem; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { background:#f1efe9; font-family:sans-serif; font-size:.78rem; text-transform:uppercase; letter-spacing:.05em; }
+  tr:last-child td { border-bottom:none; }
+  td a, .prose a { color:var(--accent); }
+  .note { font-size:.82rem; color:var(--muted); margin-top:.5rem; }
+  .prose ul, .prose ol { margin:.6rem 0 .6rem 1.4rem; }
+  .prose p { margin:.6rem 0; }
+  .prose blockquote { border-left:3px solid var(--line); margin:.8rem 0; padding:.2rem 0 .2rem 1rem; color:var(--muted); }
+  footer { margin-top:3rem; padding-top:1.2rem; border-top:1px solid var(--line); font-size:.85rem; color:var(--muted); }
+  footer a { color:var(--accent); }
+</style>
+</head>
+<body>
+<nav>
+  <a class="brand" href="/">Vetri Payanam <span class="ta">வெற்றி பயணம்</span></a>
+  <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
+  <a href="/baseline/" {% if page.url == "/baseline/" %}class="active"{% endif %}>Baseline</a>
+  <a href="/fleet/" {% if page.url == "/fleet/" %}class="active"{% endif %}>Fleet</a>
+  <a href="/gos/" {% if page.url == "/gos/" %}class="active"{% endif %}>G.O. Ledger</a>
+  <a href="/news/" {% if page.url == "/news/" %}class="active"{% endif %}>News</a>
+  <a href="/social/" {% if page.url == "/social/" %}class="active"{% endif %}>Social</a>
+  <a href="/data/" {% if page.url == "/data/" %}class="active"{% endif %}>Data</a>
+</nav>
+<div class="wrap">
+{{ content }}
+<footer>
+    Part of the <a href="https://ungalsoththu.github.io/">UngalSoththu</a> desk · Repo: <a href="https://github.com/ungalsoththu/VetriPayanam">ungalsoththu/VetriPayanam</a> · Companion: <a href="https://github.com/ungalsoththu/VandiPattiyal">Vandi Pattiyal</a> (MTC fleet explorer)<br>
+    Monitoring, not endorsement. Every number sourced. No rider personal data.
+</footer>
+</div>
+</body>
+</html>

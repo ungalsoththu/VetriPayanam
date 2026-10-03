@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fleet Composition"
+permalink: /fleet/
+---
+
 # Fleet Composition — Vetri Payanam
 
 `[VETRI]` [FLEET] Detailed fleet-level breakdown behind the scheme. Sources: Daily Thanthi 2026-08-26 (composition), Daily Thanthi 2026-10-01 (distance caps), X posts (claims). All figures as reported by cited source.

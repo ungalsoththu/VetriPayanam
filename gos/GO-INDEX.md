@@ -1,3 +1,9 @@
+---
+layout: default
+title: "G.O. Ledger"
+permalink: /gos/
+---
+
 # G.O. Ledger — Vetri Payanam / Vidiyal Payanam
 
 `[VETRI] [VIDIYAL]` — Every government order, circular, and announcement that governs the scheme. Rule: no claim about scheme rules is "confirmed" until a G.O./circular lands here. TN G.O. portal: https://cms.tn.gov.in (Transport Dept).

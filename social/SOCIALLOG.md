@@ -1,6 +1,13 @@
-# Social Media Analysis — October 2026
+---
+layout: default
+title: "Social Analysis"
+permalink: /social/
+---
+# Social Media Analysis
 
-`[VETRI]` Scan cadence: daily (evening watch agent). Method: search X/IG/YT for `#VettriPayanam #VetriPayanam வெற்றிபயணம் விடியல்பயணம்` variants; log narratives, not individuals (no rider PII).
+`[VETRI]` Scan cadence: daily (evening watch agent). Method: search X/IG/YT for `#VettriPayanam #VetriPayanam வெற்றிபயணம் விடியல்பயணம்` variants; log narratives, not individuals (no rider PII). New months get a new `## YYYY-MM` section, appended at the bottom.
+
+## 2026-10 (October)
 
 ## Launch window (26 Sep – 2 Oct): sentiment snapshot
 
@@ -14,7 +21,11 @@
 | @Shebas_10dulkar | Personality/launch theatre — "personally printed and handed over tickets" | [link](https://x.com/Shebas_10dulkar/status/2105919380534312994) |
 | @ItsmeMadhu_7 | Scale — "1.68 lakh trips daily is massive" | [link](https://x.com/ItsmeMadhu_7/status/2105977215338848284) |
 | @MacroMatrix1 | Analytical — "key issue going forward will be how the expansion affects women's mobility, employment & education access" | [link](https://x.com/MacroMatrix1/status/2105887897501221340) |
-| @Troll_Cinema | Amplifier — coverage repost | [link](https://x.com/Troll_Cinema/status/2105907862274969838) || @UngalSoththu (desk) | Hub announcement — launch post linking the research hub (2026-10-03) | [link](https://x.com/ungalsoththu/status/2106269946074300808) |
+| @Troll_Cinema | Amplifier — coverage repost | [link](https://x.com/Troll_Cinema/status/2105907862274969838) |
+| @UngalSoththu (desk) | Hub announcement — launch post linking the research hub (2026-10-03) | [link](https://x.com/ungalsoththu/status/2106269946074300808) |
+| @TVKHQITWingOffl | Party IT wing — 12,695 buses · 1,68,500 services (≠ govt counts) | [link](https://x.com/TVKHQITWingOffl/status/2105949202744512582) |
+| @hosurupdates | Explainer — Express ≤100 km, LSS ≤40, Deluxe ≤50 caps | [link](https://x.com/hosurupdates/status/2105970772296585685) |
+| @dpisiva | Ground skepticism — rented private buses, empty TNSTC ORD, Krishnagiri timing complaints | [link](https://x.com/dpisiva/status/2105940841475059978) |
 
 
 > Note: @sekartweets cites **12,695** buses vs official **12,692** — number drift already visible on day one. Track.
@@ -31,6 +42,3 @@
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
 - TNDIPR reel: "69.75 lakh trips per day" under Vidiyal — reconcile with Transport Dept's ~70 lakh/day figure. Consistent.
-| @TVKHQITWingOffl | Party IT wing — 12,695 buses · 1,68,500 services (≠ govt counts) | [link](https://x.com/TVKHQITWingOffl/status/2105949202744512582) |
-| @hosurupdates | Explainer — Express ≤100 km, LSS ≤40, Deluxe ≤50 caps | [link](https://x.com/hosurupdates/status/2105970772296585685) |
-| @dpisiva | Ground skepticism — rented private buses, empty TNSTC ORD, Krishnagiri timing complaints | [link](https://x.com/dpisiva/status/2105940841475059978) |

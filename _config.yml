@@ -1,0 +1,8 @@
+name: Vetri Payanam Hub
+description: Open research hub on Tamil Nadu's fare-free bus travel for women & transgender persons — Vidiyal Payanam (2021) to Magalir Vetri Payanam (Oct 2026).
+url: https://ungalsoththu.github.io/VetriPayanam
+exclude:
+  - README.md
+  - data
+  - scripts
+  - assets

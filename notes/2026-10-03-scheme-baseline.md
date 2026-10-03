@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Scheme Baseline"
+permalink: /baseline/
+---
+
 # Scheme Baseline — Vidiyal Payanam → Magalir Vetri Payanam
 
 `[VETRI] [VIDIYAL] [TNSTC] [MTC] [SETC]` — 2026-10-03. Anchor note: everything in the hub hangs off these sourced numbers.

@@ -1,6 +1,13 @@
-# News Log — October 2026
+---
+layout: default
+title: "News Log"
+permalink: /news/
+---
+# News Log
 
-`[VETRI]` Running day-to-day log. One row per story; newest at bottom. Daily watch agent appends here.
+`[VETRI]` Running day-to-day log — one row per story, newest at the bottom of each month. The daily watch agent appends here; new months get a new `## YYYY-MM` section.
+
+## 2026-10 (October)
 
 | Date | Story | Key facts | Source |
 | --- | --- | --- | --- |
