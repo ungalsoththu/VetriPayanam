@@ -11,9 +11,9 @@ permalink: /social/
 
 ## Launch window (26 Sep – 2 Oct): sentiment snapshot
 
-**Overall: overwhelmingly positive launch coverage**; dominant frames are mobility/access ("no woman should miss opportunity due to transport cost") and the visual of CM Vijay personally issuing tickets. Fiscal-skeptic threads exist but were minority in the sampled window.
+**Launch-window posts were mostly positive in the celebratory sample, but early service-quality complaints and gender-scope criticism surfaced after launch.** This small X sample is not representative; verify rider claims independently.
 
-### Sample posts (X, 2 Oct 2026)
+### Sample posts (X, 2–3 Oct 2026)
 
 | Handle | Frame | Post |
 | --- | --- | --- |
@@ -26,6 +26,9 @@ permalink: /social/
 | @TVKHQITWingOffl | Party IT wing — 12,695 buses · 1,68,500 services (≠ govt counts) | [link](https://x.com/TVKHQITWingOffl/status/2105949202744512582) |
 | @hosurupdates | Explainer — Express ≤100 km, LSS ≤40, Deluxe ≤50 caps | [link](https://x.com/hosurupdates/status/2105970772296585685) |
 | @dpisiva | Ground skepticism — rented private buses, empty TNSTC ORD, Krishnagiri timing complaints | [link](https://x.com/dpisiva/status/2105940841475059978) |
+| Individual X user (handle omitted) | Unverified fare-collection complaint: says ₹16 was charged on an ordinary bus after the launch; one account, not independently confirmed. | [post](https://x.com/csksapien/status/2106365659487809733) |
+| @LogicalIndians | Implementation/reliability focus; post relays first-day fare-collection allegations and asks whether everyday access will work reliably. | [post](https://x.com/LogicalIndians/status/2106369632945008924) |
+| @arrowrootsmedia | Gender-scope criticism framed as “women free, men pay”; political rhetoric, not evidence about scheme rules. | [post](https://x.com/arrowrootsmedia/status/2106367371304989145) |
 
 
 > Note: @sekartweets cites **12,695** buses vs official **12,692** — number drift already visible on day one. Track.
