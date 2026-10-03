@@ -5,45 +5,48 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if page.title %}{{ page.title }} — {% endif %}Vetri Payanam வெற்றி பயணம் — TN Fare-Free Bus Travel Research Hub</title>
 <meta name="description" content="Open research hub monitoring Tamil Nadu's fare-free bus travel for women and transgender persons — Vidiyal Payanam (2021) to Magalir Vetri Payanam (Oct 2026). G.O. ledger, news log, social analysis, metrics.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&family=Noto+Sans+Tamil:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
-  :root { --ink:#1a1a1a; --paper:#faf9f6; --accent:#b3261e; --muted:#5f5b54; --card:#fff; --line:#e4e0d8; }
+  :root { --us-bg:#0b2e2f; --us-fg:#eef7f5; --us-muted:#c9e4e0; --us-accent:#f0b429; --us-accent-alt:#8fd0c8; --us-card:rgba(17,52,53,0.85); --us-line:rgba(238,247,245,0.14); --us-danger:#c62828; }
   * { box-sizing:border-box; margin:0; padding:0; }
-  body { font-family:Georgia,'Noto Sans Tamil',serif; background:var(--paper); color:var(--ink); line-height:1.6; }
-  nav { background:#fff; border-bottom:1px solid var(--line); padding:.8rem 1.25rem; display:flex; flex-wrap:wrap; gap:.2rem 1.2rem; align-items:baseline; max-width:960px; margin:0 auto; }
-  nav .brand { font-weight:700; text-decoration:none; color:var(--ink); margin-right:.8rem; }
-  nav .brand .ta { color:var(--accent); font-weight:400; }
-  nav a { color:var(--muted); text-decoration:none; font-size:.92rem; }
-  nav a:hover { color:var(--accent); }
-  nav a.active { color:var(--accent); font-weight:700; }
+  body { font-family:'Inter','Noto Sans Tamil',sans-serif; background:var(--us-bg); color:var(--us-fg); line-height:1.65; }
+  nav { background:rgba(11,46,47,0.92); border-bottom:1px solid var(--us-line); padding:.8rem 1.25rem; display:flex; flex-wrap:wrap; gap:.2rem 1.2rem; align-items:baseline; max-width:960px; margin:0 auto; }
+  nav .brand { font-weight:800; text-decoration:none; color:var(--us-fg); margin-right:.8rem; }
+  nav .brand .ta { color:var(--us-accent); font-weight:600; }
+  nav a { color:var(--us-muted); text-decoration:none; font-size:.92rem; }
+  nav a:hover { color:var(--us-accent); }
+  nav a.active { color:var(--us-accent); font-weight:700; }
   .wrap { max-width:880px; margin:0 auto; padding:2.5rem 1.25rem 4rem; }
-  .kicker { font-family:'Noto Sans Tamil',sans-serif; color:var(--accent); font-weight:700; letter-spacing:.08em; text-transform:uppercase; font-size:.8rem; }
-  h1 { font-size:2.2rem; line-height:1.2; margin:.4rem 0 .6rem; }
-  h1 .ta { display:block; font-size:1.4rem; color:var(--muted); font-weight:400; margin-top:.3rem; }
-  .lede { font-size:1.05rem; color:var(--muted); max-width:42rem; }
+  .kicker { font-family:'Noto Sans Tamil',sans-serif; color:var(--us-accent); font-weight:700; letter-spacing:.08em; text-transform:uppercase; font-size:.8rem; }
+  h1 { font-size:2.2rem; line-height:1.2; margin:.4rem 0 .6rem; font-weight:800; }
+  h1 .ta { display:block; font-size:1.4rem; color:var(--us-muted); font-weight:400; margin-top:.3rem; }
+  .lede { font-size:1.05rem; color:var(--us-muted); max-width:42rem; }
   .status { display:table; background:#e8f0e8; color:#2e5d34; border:1px solid #c4dcc6; border-radius:999px; padding:.15rem .8rem; font-size:.8rem; margin-top:1rem; }
-  h2 { font-size:1.15rem; margin:2.2rem 0 .7rem; border-bottom:2px solid var(--accent); display:inline-block; padding-bottom:.15rem; }
+  h2 { font-size:1.15rem; margin:2.2rem 0 .7rem; border-bottom:2px solid var(--us-accent); display:inline-block; padding-bottom:.15rem; }
   h3 { font-size:1rem; margin:1.6rem 0 .5rem; }
   .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:.8rem; margin-top:1rem; }
-  .card { display:block; background:var(--card); border:1px solid var(--line); border-radius:10px; padding:1rem 1.1rem; text-decoration:none; color:var(--ink); transition:border-color .15s; }
-  .card:hover { border-color:var(--accent); }
+  .card { display:block; background:var(--us-card); border:1px solid var(--us-line); border-radius:12px; padding:1rem 1.1rem; text-decoration:none; color:var(--us-fg); transition:border-color .15s; }
+  .card:hover { border-color:var(--us-accent); }
   .card b { display:block; }
-  .card span { font-size:.85rem; color:var(--muted); }
-  table { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); border-radius:10px; overflow:hidden; font-size:.88rem; margin-top:1rem; }
-  th, td { text-align:left; padding:.5rem .7rem; border-bottom:1px solid var(--line); vertical-align:top; }
-  th { background:#f1efe9; font-family:sans-serif; font-size:.78rem; text-transform:uppercase; letter-spacing:.05em; }
+  .card span { font-size:.85rem; color:var(--us-muted); }
+  table { width:100%; border-collapse:collapse; background:var(--us-card); border:1px solid var(--us-line); border-radius:10px; overflow:hidden; font-size:.88rem; margin-top:1rem; }
+  th, td { text-align:left; padding:.5rem .7rem; border-bottom:1px solid var(--us-line); vertical-align:top; }
+  th { background:rgba(238,247,245,0.06); font-size:.75rem; text-transform:uppercase; letter-spacing:.06em; color:var(--us-muted); }
   tr:last-child td { border-bottom:none; }
-  td a, .prose a { color:var(--accent); }
-  .note { font-size:.82rem; color:var(--muted); margin-top:.5rem; }
+  td a, .prose a { color:var(--us-accent-alt); }
+  .note { font-size:.82rem; color:var(--us-muted); margin-top:.5rem; }
   .prose ul, .prose ol { margin:.6rem 0 .6rem 1.4rem; }
   .prose p { margin:.6rem 0; }
-  .prose blockquote { border-left:3px solid var(--line); margin:.8rem 0; padding:.2rem 0 .2rem 1rem; color:var(--muted); }
-  footer { margin-top:3rem; padding-top:1.2rem; border-top:1px solid var(--line); font-size:.85rem; color:var(--muted); }
-  footer a { color:var(--accent); }
+  .prose blockquote { border-left:3px solid var(--us-line); margin:.8rem 0; padding:.2rem 0 .2rem 1rem; color:var(--us-muted); }
+  footer { margin-top:3rem; padding-top:1.2rem; border-top:1px solid var(--us-line); font-size:.85rem; color:var(--us-muted); }
+  footer a { color:var(--us-accent-alt); }
 </style>
 </head>
 <body>
 <nav>
-  <a class="brand" href="{{ '/' | relative_url }}">Vetri Payanam <span class="ta">வெற்றி பயணம்</span></a>
+  <a class="brand" href="{{ '/' | relative_url }}">UngalSoththu <span class="ta">உங்கள் சொத்து</span> · Vetri Payanam</a>
   <a href="{{ '/' | relative_url }}" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
   <a href="{{ '/baseline/' | relative_url }}" {% if page.url == "/baseline/" %}class="active"{% endif %}>Baseline</a>
   <a href="{{ '/fleet/' | relative_url }}" {% if page.url == "/fleet/" %}class="active"{% endif %}>Fleet</a>
