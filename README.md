@@ -1,4 +1,5 @@
 # Vetri Payanam Hub — வெற்றி பயணம் ஆய்வுக்கூடம்
+> **Live site:** https://ungalsoththu.github.io/VetriPayanam/ — renders the metrics table straight from `data/metrics.csv` on every visit, so it updates itself when the daily watch pushes.
 
 **One umbrella for everything on Tamil Nadu's fare-free bus travel for women & transgender persons: government orders, day-to-day news, social-media analysis, and the numbers behind the scheme.**
 
