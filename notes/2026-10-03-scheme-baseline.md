@@ -32,7 +32,9 @@
 - Legacy baseline: **~70 lakh** women/day rode free under Vidiyal on **7,331** ordinary buses (Transport Dept figures, 2026) [^indiancommunity]
 - STC context: combined daily operational loss ~**₹19 crore**; diesel price hike adds **₹175.58 cr/yr**; last fare revision Jan 2018 [^indiancommunity]
 
-## 4. Open research questions (tracked in GO-INDEX + agenda)
+## 4. Open research questions
+
+Tracked in the G.O. ledger (`gos/GO-INDEX.md`) and the standing agenda below.
 
 1. Operational **G.O. number** for Vetri Payanam guidelines — not yet public. Rule 110 ≠ G.O.
 2. **Reimbursement mechanism**: rate per km/trip to each STC; Vidiyal-era arrears as precedent for fiscal risk.
