@@ -43,14 +43,14 @@
 </head>
 <body>
 <nav>
-  <a class="brand" href="/">Vetri Payanam <span class="ta">வெற்றி பயணம்</span></a>
-  <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
-  <a href="/baseline/" {% if page.url == "/baseline/" %}class="active"{% endif %}>Baseline</a>
-  <a href="/fleet/" {% if page.url == "/fleet/" %}class="active"{% endif %}>Fleet</a>
-  <a href="/gos/" {% if page.url == "/gos/" %}class="active"{% endif %}>G.O. Ledger</a>
-  <a href="/news/" {% if page.url == "/news/" %}class="active"{% endif %}>News</a>
-  <a href="/social/" {% if page.url == "/social/" %}class="active"{% endif %}>Social</a>
-  <a href="/data/" {% if page.url == "/data/" %}class="active"{% endif %}>Data</a>
+  <a class="brand" href="{{ '/' | relative_url }}">Vetri Payanam <span class="ta">வெற்றி பயணம்</span></a>
+  <a href="{{ '/' | relative_url }}" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
+  <a href="{{ '/baseline/' | relative_url }}" {% if page.url == "/baseline/" %}class="active"{% endif %}>Baseline</a>
+  <a href="{{ '/fleet/' | relative_url }}" {% if page.url == "/fleet/" %}class="active"{% endif %}>Fleet</a>
+  <a href="{{ '/gos/' | relative_url }}" {% if page.url == "/gos/" %}class="active"{% endif %}>G.O. Ledger</a>
+  <a href="{{ '/news/' | relative_url }}" {% if page.url == "/news/" %}class="active"{% endif %}>News</a>
+  <a href="{{ '/social/' | relative_url }}" {% if page.url == "/social/" %}class="active"{% endif %}>Social</a>
+  <a href="{{ '/data/' | relative_url }}" {% if page.url == "/data/" %}class="active"{% endif %}>Data</a>
 </nav>
 <div class="wrap">
 {{ content }}
