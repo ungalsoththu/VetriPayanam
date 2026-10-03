@@ -10,3 +10,26 @@ date,metric,value,unit,phase,source_url,note
 2026,vidiyal_daily_riders_baseline,7000000,riders_per_day,vidiyal,https://indian.community/news/tamil-nadu-transport-corporations-face-financial-strain-due-to-diesel-price-hike,Transport Dept figure ~70 lakh on 7331 ordinary buses
 2026,vidiyal_ordinary_buses,7331,buses,vidiyal,https://indian.community/news/tamil-nadu-transport-corporations-face-financial-strain-due-to-diesel-price-hike,ordinary buses in scheme
 2026,stc_daily_operational_loss,19,crore_per_day,context,https://indian.community/news/tamil-nadu-transport-corporations-face-financial-strain-due-to-diesel-price-hike,all STCs combined; diesel hike adds 175.58 cr/yr
+2026-08-26,vidiyal_ordinary_buses,7710,buses,vidiyal,https://www.dailythanthi.com/news/tamilnadu/how-many-buses-can-women-travel-free-in-tamil-nadu,DT Aug figure; conflicts with 7331 from indian.community — reconcile
+2026-08-26,vidiyal_daily_riders,7200000,riders_per_day,vidiyal,https://www.dailythanthi.com/news/tamilnadu/how-many-buses-can-women-travel-free-in-tamil-nadu,72 lakh women/day pre-expansion (DT Aug)
+2026-08-26,vetri_add_express_lss_deluxe,2302,buses,vetri,https://www.dailythanthi.com/news/tamilnadu/how-many-buses-can-women-travel-free-in-tamil-nadu,NEW: Express/LSS/Deluxe in metro+urban limits
+2026-08-26,vetri_add_mofussil_ordinary,2047,buses,vetri,https://www.dailythanthi.com/news/tamilnadu/how-many-buses-can-women-travel-free-in-tamil-nadu,NEW: inter-district ordinary link travel
+2026-08-26,vetri_add_ghat_ordinary,275,buses,vetri,https://www.dailythanthi.com/news/tamilnadu/how-many-buses-can-women-travel-free-in-tamil-nadu,NEW: hill-route ordinary
+2026-08-26,designated_buses_pre_launch,12334,buses,vetri,https://www.dailythanthi.com/news/tamilnadu/how-many-buses-can-women-travel-free-in-tamil-nadu,+4624 over Vidiyal; grew to 12692 by Sep 21 review
+2026-08-26,projected_daily_riders_pre_launch,11500000,riders_per_day,vetri,https://www.dailythanthi.com/news/tamilnadu/how-many-buses-can-women-travel-free-in-tamil-nadu,DT Aug projection >1.15 cr; govt later said 84.32 lakh — reconcile
+2026-10-01,express_distance_cap,100,km,vetri,https://www.dailythanthi.com/news/tamilnadu/women-how-far-can-you-travel-for-free-on-government-buses-under-the-vetri-payanam-scheme,route-length eligibility not per-journey cap — confirm in G.O.
+2026-10-01,lss_distance_cap,40,km,vetri,https://www.dailythanthi.com/news/tamilnadu/women-how-far-can-you-travel-for-free-on-government-buses-under-the-vetri-payanam-scheme,LSS routes run 30-40 km
+2026-10-01,deluxe_distance_cap,50,km,vetri,https://www.dailythanthi.com/news/tamilnadu/women-how-far-can-you-travel-for-free-on-government-buses-under-the-vetri-payanam-scheme,Deluxe routes run 30-50 km
+2026-10-01,projected_oneway_trips,1600000,trips_per_day,vetri,https://www.dailythanthi.com/news/tamilnadu/women-how-far-can-you-travel-for-free-on-government-buses-under-the-vetri-payanam-scheme,DT projects >16 lakh one-way trips/day
+2026-10-02,tvk_claimed_buses,12695,buses,vetri,https://x.com/TVKHQITWingOffl/status/2105949202744512582,IT wing figure vs govt 12692 — unreconciled
+2026-10-02,tvk_claimed_services,168500,services_per_day,vetri,https://x.com/TVKHQITWingOffl/status/2105949202744512582,vs govt 165312 — unreconciled
+2026-08-26,vidiyal_existing_ordinary_buses,7710,buses,vidiyal,https://www.dailythanthi.com/news/tamilnadu/how-many-buses-can-women-travel-free-in-tamil-nadu,72 lakh women/day already free pre-expansion (reconcile vs 7331)
+2026-08-26,vetri_new_express_lss_deluxe,2302,buses,vetri,https://www.dailythanthi.com/news/tamilnadu/how-many-buses-can-women-travel-free-in-tamil-nadu,NEW metro+urban Express/LSS/Deluxe from 2 Oct
+2026-08-26,vetri_new_mofussil_ordinary,2047,buses,vetri,https://www.dailythanthi.com/news/tamilnadu/how-many-buses-can-women-travel-free-in-tamil-nadu,NEW inter-district mofussil ordinary
+2026-08-26,vetri_new_ghat_ordinary,275,buses,vetri,https://www.dailythanthi.com/news/tamilnadu/how-many-buses-can-women-travel-free-in-tamil-nadu,NEW ghat/hill ordinary
+2026-08-26,scheme_buses_pre_launch_total,12334,buses,vetri,https://www.dailythanthi.com/news/tamilnadu/how-many-buses-can-women-travel-free-in-tamil-nadu,grew to 12692 by Sep 21 review
+2026-10-01,distance_cap_express,100,km,vetri,https://www.dailythanthi.com/news/tamilnadu/women-how-far-can-you-travel-for-free-on-government-buses-under-the-vetri-payanam-scheme,free up to 100 km
+2026-10-01,distance_cap_lss,40,km,vetri,https://www.dailythanthi.com/news/tamilnadu/women-how-far-can-you-travel-for-free-on-government-buses-under-the-vetri-payanam-scheme,free up to 40 km
+2026-10-01,distance_cap_deluxe,50,km,vetri,https://www.dailythanthi.com/news/tamilnadu/women-how-far-can-you-travel-for-free-on-government-buses-under-the-vetri-payanam-scheme,free up to 50 km
+2026-10-02,tvk_claimed_buses,12695,buses,vetri,https://x.com/TVKHQITWingOffl/status/2105949202744512582,discrepancy vs govt 12692
+2026-10-02,tvk_claimed_daily_services,168500,services_per_day,vetri,https://x.com/TVKHQITWingOffl/status/2105949202744512582,discrepancy vs govt 165312
