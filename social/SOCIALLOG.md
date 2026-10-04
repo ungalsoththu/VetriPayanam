@@ -29,6 +29,8 @@ permalink: /social/
 | Individual X user (handle omitted) | Unverified fare-collection complaint: says ₹16 was charged on an ordinary bus after the launch; one account, not independently confirmed. | [post](https://x.com/csksapien/status/2106365659487809733) |
 | @LogicalIndians | Implementation/reliability focus; post relays first-day fare-collection allegations and asks whether everyday access will work reliably. | [post](https://x.com/LogicalIndians/status/2106369632945008924) |
 | @arrowrootsmedia | Gender-scope criticism framed as “women free, men pay”; political rhetoric, not evidence about scheme rules. | [post](https://x.com/arrowrootsmedia/status/2106367371304989145) |
+| @dt_next | Implementation/MCC confusion resurfaced in a 4 Oct post: report says fares were charged on Chengalpattu-district stretches during the Madurantakkam bypoll period, with boundary-crossing routes confusing crews and passengers on Vettri Payanam (வெற்றி பயணம்). No individual rider identity recorded. | [post](https://x.com/dt_next/status/2106670477108453392) |
+| @Bugatti_Hunter | Policy critique: argues for need-based rather than universal free travel and proposes integrated public-transport passes. One account’s opinion, not evidence of a sentiment shift. | [post](https://x.com/Bugatti_Hunter/status/2106677235315015727) |
 
 
 > Note: @sekartweets cites **12,695** buses vs official **12,692** — number drift already visible on day one. Track.

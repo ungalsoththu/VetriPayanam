@@ -16,6 +16,7 @@ permalink: /gos/
 | 4 | **TO LOCATE** | Transport Dept G.O. — Vetri Payanam operational guidelines | Eligible bus classes, municipal-limit boundaries, conductor procedure, zero-fare ticket format | **Hunting** | cms.tn.gov.in Transport Dept; tnsta.tn.gov.in; RTI if not published |
 | 5 | **TO LOCATE** | Finance Dept order — scheme budget line / reimbursement mechanism | Per-trip/km reimbursement rate to STCs; 2026–27 allocation vs ₹6,000 cr estimate | **Hunting** | tnbudget.tn.gov.in 2026-27 Demand No. (Transport); Finance dept G.O.s |
 | 6 | **TO LOCATE** | STC circular — ETM gender-coded ticketing SOP | How zero-fare tickets are gender-tagged; data reporting chain | **Hunting** | TNSTC/MTC internal circulars via RTI |
+| 7 | 2022-04-01 | G.O. (Ms.) No.36, Transport (T1) Department | 2022–23 Transport Policy Note says it constituted a KPI committee for subsidy disbursal based on normative costs for free/subsidised ridership or uneconomical routes; possible Vettri Payanam (வெற்றி பயணம்) reimbursement precedent, not a scheme-specific order | Number located; original G.O. copy still to obtain | [Official Transport Department Policy Note 2022–23](https://cms.tn.gov.in/cms_migrated/document/docfiles/transport_e_pn_2022_23.pdf) |
 
 ## Vidiyal-era reference points (for reimbursement precedent)
 
