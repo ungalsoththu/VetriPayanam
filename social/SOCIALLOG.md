@@ -43,6 +43,17 @@ permalink: /social/
 4. **Ground-truth hashtags**: rider complaints surface under #MTC #TNSTC + route numbers, not the scheme hashtag — mine those for service-quality signal.
 5. Instagram/TNDIPR: official stats reels (e.g. "69.75 lakh trips/day", "769 crore free journeys") — log each stat with post date for the metrics file.
 
+### X scan — 4–5 Oct 2026 (last 24 hours)
+
+Small, non-representative sample; posts are allegations or opinions, not independently verified service findings. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| Individual X account (handle omitted) | Unverified coverage complaint: says Kallakurichi–Chennai travel was still charged and free travel seemed limited to marked buses; route/class eligibility remains unclear from the post alone. | [post](https://x.com/Maathiyosi007/status/2107107089671971008) |
+| Individual X account (handle omitted) | Critical view: says Vidiyal Payanam (விடியல் பயணம்) buses were not consistently available and raises concerns about transport workers’ livelihoods and pay; opinion, not verified evidence of pay arrears. | [post](https://x.com/panchami123645/status/2107103466606977307) |
+| Theekkathir | Inclusion demand: post reports a protest in Madurai by persons with disabilities seeking inclusion in Vettri Payanam (வெற்றி பயணம்). | [post](https://x.com/Theekkathir/status/2107103377637478849) |
+| Individual X account (handle omitted) | Positive reaction: describes the scheme as well received by women; one account’s impression, not a representative measure. | [post](https://x.com/Thaniraman_/status/2107103942119481553) |
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
