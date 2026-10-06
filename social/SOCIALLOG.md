@@ -54,6 +54,16 @@ Small, non-representative sample; posts are allegations or opinions, not indepen
 | Theekkathir | Inclusion demand: post reports a protest in Madurai by persons with disabilities seeking inclusion in Vettri Payanam (வெற்றி பயணம்). | [post](https://x.com/Theekkathir/status/2107103377637478849) |
 | Individual X account (handle omitted) | Positive reaction: describes the scheme as well received by women; one account’s impression, not a representative measure. | [post](https://x.com/Thaniraman_/status/2107103942119481553) |
 
+### X scan — 5–6 Oct 2026 (last 24 hours)
+
+Small, non-representative sample. Posts are allegations and framing, not independently verified service or compensation findings; no rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @TamilTheHindu | Reports that court staff seized three Vetri Payanam buses at Madurai Mattuthavani over unpaid court-ordered compensation to accident-injured claimants. The post's account was not independently corroborated in the news search. | [post](https://x.com/TamilTheHindu/status/2107453255278362657) |
+| @Vaakkalanmedia | Private-bus crew livelihood complaint after Vetri Payanam (வெற்றி பயணம்) expansion; Tamil Oneindia also covered crew videos, but impacts remain unmeasured. | [post](https://x.com/Vaakkalanmedia/status/2107459891153821917) |
+| @arrowrootsmedia | Auto-driver livelihood criticism tied to Vetri Payanam expansion; a media framing, not evidence of an aggregate income effect. | [post](https://x.com/arrowrootsmedia/status/2107450617178591677) |
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
