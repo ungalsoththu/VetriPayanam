@@ -64,6 +64,17 @@ Small, non-representative sample. Posts are allegations and framing, not indepen
 | @Vaakkalanmedia | Private-bus crew livelihood complaint after Vetri Payanam (வெற்றி பயணம்) expansion; Tamil Oneindia also covered crew videos, but impacts remain unmeasured. | [post](https://x.com/Vaakkalanmedia/status/2107459891153821917) |
 | @arrowrootsmedia | Auto-driver livelihood criticism tied to Vetri Payanam expansion; a media framing, not evidence of an aggregate income effect. | [post](https://x.com/arrowrootsmedia/status/2107450617178591677) |
 
+### X scan — 6–7 Oct 2026 (last 24 hours)
+
+Small, non-representative sample; posts are personal accounts or media framing, not independently verified service or income data. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| Individual X account (handle omitted) | An auto-driver account says share-auto business has fallen and asks the government to cancel Vetri/Vettri Payanam (வெற்றி பயணம்); one account, not evidence of an aggregate income effect. | [post](https://x.com/voicesunite_onX/status/2107829926342893765) |
+| Kumudam News 24x7 | Conductor explainer about the Vetri Payanam rules; points to continuing need for clear service-class and eligibility communication. | [post](https://x.com/kumudamNews24x7/status/2107731255064490048) |
+| Individual X account (handle omitted) | Counter-frame: argues the scheme may help ease a commercial-driver shortage by shifting workers into other driving jobs; an opinion, not labour-market evidence. | [post](https://x.com/deepan_civileng/status/2107679680702902767) |
+| Infinity Plus Youtube | Video post highlights private/omni-bus driver livelihood concerns after Vettri Payanam (வெற்றி பயணம்); reported worker accounts, effects unmeasured. | [post](https://x.com/InfinityPlusHQ/status/2107825451108614639) |
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
