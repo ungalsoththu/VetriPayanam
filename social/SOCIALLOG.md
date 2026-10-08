@@ -84,7 +84,7 @@ Small, non-representative sample about Magalir Vettri Payanam (வெற்ற�
 | @sunnewstamil | Service-reliability report: Sun News posted video alleging a newly introduced Vettri Payanam bus stalled at Chekkanoorani, Madurai, and passengers pushed it. One reported incident; cause and agency response unverified. | [post](https://x.com/sunnewstamil/status/2108193403284726183) |
 | Individual X account (handle omitted) | Gender-and-income critique contrasts women’s free travel with low-paid men paying fares; rhetoric, not evidence that eligibility is income-tested. | [post](https://x.com/call_umbrella/status/2108195338872090741) |
 | Individual X account (handle omitted) | Fiscal-sustainability criticism asks about revenue and recurring cost; an opinion, not a sourced budget or reimbursement figure. | [post](https://x.com/gopi_samsan/status/2108186350772216078) |
-| Individual X account (handle omitted) | Juxtaposes Vidiyal Payanam and Vettri Payanam with an auto-driver impact argument; partisan framing, not measured livelihood evidence. | [post](https://x.com/gowthammgm555/status/2108017421428912452) |
+
 
 
 ## Vidiyal-era social baselines (pre-Oct)
