@@ -75,6 +75,18 @@ Small, non-representative sample; posts are personal accounts or media framing, 
 | Individual X account (handle omitted) | Counter-frame: argues the scheme may help ease a commercial-driver shortage by shifting workers into other driving jobs; an opinion, not labour-market evidence. | [post](https://x.com/deepan_civileng/status/2107679680702902767) |
 | Infinity Plus Youtube | Video post highlights private/omni-bus driver livelihood concerns after Vettri Payanam (வெற்றி பயணம்); reported worker accounts, effects unmeasured. | [post](https://x.com/InfinityPlusHQ/status/2107825451108614639) |
 
+### X scan — 7–8 Oct 2026 (last 24 hours)
+
+Small, non-representative sample about Magalir Vettri Payanam (வெற்றி பயணம்) and legacy Vidiyal Payanam (விடியல் பயணம்). Reports and opinions below are not independent verification; no rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @sunnewstamil | Service-reliability report: Sun News posted video alleging a newly introduced Vettri Payanam bus stalled at Chekkanoorani, Madurai, and passengers pushed it. One reported incident; cause and agency response unverified. | [post](https://x.com/sunnewstamil/status/2108193403284726183) |
+| Individual X account (handle omitted) | Gender-and-income critique contrasts women’s free travel with low-paid men paying fares; rhetoric, not evidence that eligibility is income-tested. | [post](https://x.com/call_umbrella/status/2108195338872090741) |
+| Individual X account (handle omitted) | Fiscal-sustainability criticism asks about revenue and recurring cost; an opinion, not a sourced budget or reimbursement figure. | [post](https://x.com/gopi_samsan/status/2108186350772216078) |
+| Individual X account (handle omitted) | Juxtaposes Vidiyal Payanam and Vettri Payanam with an auto-driver impact argument; partisan framing, not measured livelihood evidence. | [post](https://x.com/gowthammgm555/status/2108017421428912452) |
+
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
