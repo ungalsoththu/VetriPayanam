@@ -87,6 +87,19 @@ Small, non-representative sample about Magalir Vettri Payanam (வெற்ற�
 
 
 
+### X scan — 8–9 Oct 2026 (last 24 hours)
+
+Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற்றி பயணம்) and legacy Vidiyal Payanam (விடியல் பயணம்). Posts are public narratives, not independently verified service findings; no rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| TV9 Tamil | News account reports that the Transport Minister will hold talks with private bus owners over Vetri Payanam; no date or outcome stated in the post. | [post](https://x.com/TV9Tamil/status/2108539870109176168) |
+| Individual X account (handle omitted) | Anecdotal complaint links commute delays and changed bus schedules to the scheme announcement; the causal link is unverified. | [post](https://x.com/RlAnitta/status/2108552907163656659) |
+| Individual X account (handle omitted) | Worker-impact criticism of Vetri Payanam (வெற்றி பயணம்); one post, not evidence of aggregate livelihood effects. | [post](https://x.com/jeyaprakashg10/status/2108526879326257182) |
+| Individual X account (handle omitted) | Positive celebratory framing of the scheme; one post, not a representative sentiment measure. | [post](https://x.com/Manirosyajay/status/2108550313385013386) |
+
+No new verified ETM/conductor, reimbursement, or G.O. claim surfaced in this X sample. The commute and worker-impact posts remain anecdotal; the planned private-operator talks are only reported, with no outcome yet.
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
