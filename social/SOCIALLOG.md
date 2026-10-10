@@ -100,6 +100,16 @@ Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற�
 
 No new verified ETM/conductor, reimbursement, or G.O. claim surfaced in this X sample. The commute and worker-impact posts remain anecdotal; the planned private-operator talks are only reported, with no outcome yet.
 
+### X scan — 9–10 Oct 2026 (last 24 hours)
+
+Small, non-representative sample about Magalir Vettri Payanam (வெற்றி பயணம்) and Vidiyal Payanam (விடியல் பயணம்). Posts and reported complaints are not independent evidence of scheme-wide effects; no rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| Individual X account (handle omitted) | Service-eligibility complaint: alleges a passenger was charged on an MTC non-AC bus; MTC’s reply attributes the restriction to services boarding from Chengalpattu district during the by-election MCC. This is a location-specific explanation, not evidence of a general bus-colour rule. | [complaint](https://x.com/MOHANJAYADURAI/status/2108783605967388787) · [MTC reply](https://x.com/MtcChennai/status/2108787723473682819) |
+| @UngalSoththu (desk) | Possible ETM/gender-tagging issue: the desk post says a man received a women’s zero-fare ticket. One unverified observation, not evidence of a wider error. | [post](https://x.com/UngalSoththu/status/2108788710603120924) |
+| Nakkheeran | Worker-compensation concern: its report relays a transport-workers’ federation request to protect collection-based driver/conductor incentives, alongside a conductor’s account of disputes over service eligibility. Attributed claims; no official reimbursement rule or measured loss confirmed. | [X post](https://x.com/nakkheeranweb/status/2108877645937254607) · [report](https://www.nakkheeran.in/nakkheeran/a-victorious-journey-controversies-erupting-like-swarms-of-winged-termites-12660561) |
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
