@@ -120,6 +120,16 @@ Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற�
 | Individual X account (handle omitted) | Fiscal-priority criticism contrasts Vettri Payanam with spending on urban services; opinion, with no sourced budget analysis in the post. | [post](https://x.com/b9790886/status/2109271116581917158) |
 
 
+### X scan — 11–12 Oct 2026 (last 24 hours)
+
+Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற்றி பயணம்) and legacy Vidiyal Payanam (விடியல் பயணம்). News accounts on X reported petitions/protests by transport workers and auto drivers alleging livelihood impacts; these posts show a visible worker-impact narrative, not measured scheme-wide income effects. No rider identities or personal details recorded; no ETM/conductor issue or specific misinformation claim stood out in this scan.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @THChennai | Reports Madurai auto drivers submitted a petition to the Collector seeking relief over alleged income losses linked to Vettri Payanam; a reported representation, not an estimate of aggregate losses. | [post](https://x.com/THChennai/status/2109642631508824464) |
+| @News18TamilNadu | Reports private-bus drivers and conductors in Perambalur protested and petitioned the Collector, alleging livelihood harm after the scheme; no measured causal or sector-wide impact is established. | [post](https://x.com/News18TamilNadu/status/2109606465669587243) |
+| @TamilJanamNews | Video post captures auto-driver dissatisfaction in Madurai around Vettri Payanam; anecdotal worker sentiment, not independent economic evidence. | [post](https://x.com/TamilJanamNews/status/2109615069474508850) |
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
