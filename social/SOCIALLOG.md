@@ -130,6 +130,14 @@ Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற�
 | @News18TamilNadu | Reports private-bus drivers and conductors in Perambalur protested and petitioned the Collector, alleging livelihood harm after the scheme; no measured causal or sector-wide impact is established. | [post](https://x.com/News18TamilNadu/status/2109606465669587243) |
 | @TamilJanamNews | Video post captures auto-driver dissatisfaction in Madurai around Vettri Payanam; anecdotal worker sentiment, not independent economic evidence. | [post](https://x.com/TamilJanamNews/status/2109615069474508850) |
 
+### X scan — 12–13 Oct 2026 (last 24 hours)
+
+Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற்றி பயணம்) and legacy Vidiyal Payanam (விடியல் பயணம்). A news account amplified auto-driver protest claims that trips and earnings had nearly halved; this is an attributed complaint, not measured or independently verified impact. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @MadrasUpdate | Reports protests by auto drivers across Tamil Nadu and relays their claim that daily trips and earnings fell by nearly half after the scheme expansion. No underlying sample, baseline, or independent income data is provided. | [post](https://x.com/MadrasUpdate/status/2109915220973940962) |
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
