@@ -126,7 +126,7 @@ Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற�
 
 | Handle | Frame | Post |
 | --- | --- | --- |
-| @THChennai | Reports Madurai auto drivers submitted a petition to the Collector seeking relief over alleged income losses linked to Vettri Payanam; a reported representation, not an estimate of aggregate losses. | [post](https://x.com/THChennai/status/2109642631508824464) |
+| @THChennai | The Hindu’s report gives the petition’s specific asks: review the relevant G.O., study Madurai income/trip impacts, consult driver representatives, consider relief only if harm is verified, and explore last-mile integration. These are requests and attributed claims, not evidence of aggregate loss. | [post](https://x.com/THChennai/status/2109642631508824464) · [report](https://www.thehindu.com/news/cities/Madurai/madurai-autorickshaw-drivers-petition-collector-over-income-loss-from-vettri-payanam-bus-scheme/article71574967.ece) |
 | @News18TamilNadu | Reports private-bus drivers and conductors in Perambalur protested and petitioned the Collector, alleging livelihood harm after the scheme; no measured causal or sector-wide impact is established. | [post](https://x.com/News18TamilNadu/status/2109606465669587243) |
 | @TamilJanamNews | Video post captures auto-driver dissatisfaction in Madurai around Vettri Payanam; anecdotal worker sentiment, not independent economic evidence. | [post](https://x.com/TamilJanamNews/status/2109615069474508850) |
 
