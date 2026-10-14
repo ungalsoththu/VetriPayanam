@@ -138,6 +138,16 @@ Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற�
 | --- | --- | --- |
 | @MadrasUpdate | Reports protests by auto drivers across Tamil Nadu and relays their claim that daily trips and earnings fell by nearly half after the scheme expansion. No underlying sample, baseline, or independent income data is provided. | [post](https://x.com/MadrasUpdate/status/2109915220973940962) |
 
+### X scan — 13–14 Oct 2026 (last 24 hours)
+
+Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற்றி பயணம்) and legacy Vidiyal Payanam (விடியல் பயணம்). These posts were published on 14 Oct within this watch window; they are narratives, not independent verification. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @Kasaiyadi | Satirical criticism of party-colored buses and the Vetri Payanam naming; political framing, not an operational claim. | [post](https://x.com/Kasaiyadi/status/2110261144883757484) |
+| @Palraj_Official | TVK-aligned account reports a Dharmapuri new-bus inauguration under Vetri Payanam; the post is not independent confirmation of fleet counts or operating coverage. | [post](https://x.com/Palraj_Official/status/2110265434947932289) |
+| Individual X account (handle omitted) | Fiscal criticism of the scheme; opinion, not evidence of actual expenditure or reimbursement. | [post](https://x.com/MSureshmanickam/status/2110319989282808115) |
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
