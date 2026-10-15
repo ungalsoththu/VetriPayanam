@@ -148,6 +148,16 @@ Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற�
 | @Palraj_Official | TVK-aligned account reports a Dharmapuri new-bus inauguration under Vetri Payanam; the post is not independent confirmation of fleet counts or operating coverage. | [post](https://x.com/Palraj_Official/status/2110265434947932289) |
 | Individual X account (handle omitted) | Fiscal criticism of the scheme; opinion, not evidence of actual expenditure or reimbursement. | [post](https://x.com/MSureshmanickam/status/2110319989282808115) |
 
+### X scan — 14–15 Oct 2026 (last 24 hours)
+
+Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற்றி பயணம்) and legacy Vidiyal Payanam (விடியல் பயணம்). News accounts reported auto-worker protests in Theni, Tambaram, and Thachur/Ponneri (Tiruvallur), with livelihood harm as the stated grievance. This extends the worker-impact narrative across localities; it does not verify causal or scheme-wide income effects. No ETM/reimbursement issue or specific misinformation claim surfaced in this scan. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @TamilTheHindu | Reports a Theni dharna and links to its article; workers' claimed business impact and request for review are attributed, not independently measured. | [post](https://x.com/TamilTheHindu/status/2110716083254812950) · [report](https://www.hindutamil.in/news/tamilnadu/vetri-payanam-thittam-affected-auto-rickshaw-service-workers-stage-protest-at-theni) |
+| @NewsArenaIndia | Reports a Tambaram protest and threat of wider agitation; livelihood impact remains an unverified claim. | [post](https://x.com/NewsArenaIndia/status/2110694972601303502) |
+| @SSNEWSDigital | Reports protests in Thachur and Ponneri, Tiruvallur; repeats workers' livelihood-impact claim without measured evidence. | [post](https://x.com/SSNEWSDigital/status/2110692936249979093) |
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
