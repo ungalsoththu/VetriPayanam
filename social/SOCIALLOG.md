@@ -158,6 +158,19 @@ Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற�
 | @NewsArenaIndia | Reports a Tambaram protest and threat of wider agitation; livelihood impact remains an unverified claim. | [post](https://x.com/NewsArenaIndia/status/2110694972601303502) |
 | @SSNEWSDigital | Reports protests in Thachur and Ponneri, Tiruvallur; repeats workers' livelihood-impact claim without measured evidence. | [post](https://x.com/SSNEWSDigital/status/2110692936249979093) |
 
+### X scan — 15–16 Oct 2026 (last 24 hours)
+
+Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற்றி பயணம்) and legacy Vidiyal Payanam (விடியல் பயணம்). Posts show continued worker-livelihood criticism and isolated service concerns, alongside one positive account of inter-operator assistance; these do not establish scheme-wide effects. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @PolimerNews | Reports Dindigul auto drivers alleging livelihood harm and requesting monthly aid; the demand and claimed impact are attributed, not verified scheme data. | [post](https://x.com/polimernews/status/2111077577075138742) |
+| Individual X account (handle omitted) | Anecdotal allegation that some conductors previously directed women to wait for a free pink bus rather than board a low-floor bus; not evidence of an official fare rule or widespread ETM/conductor practice. | [post](https://x.com/nbasandroid/status/2111036508815900732) |
+| @Kalaignarnews | Reports a government bus breaking down mid-road under the Vetri Payanam hashtag; one incident, with cause and scheme eligibility not independently established. | [post](https://x.com/Kalaignarnews/status/2111068388894405048) |
+| @KathirNews | Positive report of private-bus staff assisting a Vetri Payanam bus in Tiruvarur; an isolated service example, not evidence of a broader trend. | [post](https://x.com/KathirNews/status/2111052268548358508) |
+
+No new verified G.O., reimbursement, ridership, or ETM-specific claim surfaced in this scan. The posts are narratives and reported incidents, not representative evidence.
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
