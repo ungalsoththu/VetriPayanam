@@ -182,6 +182,19 @@ Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற�
 
 No new verified G.O., reimbursement, ridership, or ETM-specific claim surfaced in this scan. No specific misinformation claim surfaced.
 
+### X scan — 17–18 Oct 2026 (last 24 hours)
+
+Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற்றி பயணம்) and legacy Vidiyal Payanam (விடியல் பயணம்). The minister’s post announces a Theni rollout; other posts continue worker-impact and fiscal-sustainability narratives. Financial and service claims below are attributed or unverified, not official outcome data. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @CTR_Nirmalkumar | Minister’s official account says six new buses were flagged off for Theni-district routes under the scheme; this confirms a local rollout, not an updated statewide fleet count. | [post](https://x.com/CTR_Nirmalkumar/status/2111738951853891923) |
+| @sjeeva26 | BBC Tamil journalist links a ground report asking how the scheme affects auto drivers; worker accounts are testimony, not a measured causal or statewide estimate. | [post](https://x.com/sjeeva26/status/2111807114868093077) · [BBC Tamil report](https://www.youtube.com/watch?v=uiEMBklj_YE) |
+| @OfficeOfKSKY | Fiscal critique amplifies claims about transport-sector costs, debt and employment; the post does not source these figures to audited accounts, so they remain unverified commentary. | [post](https://x.com/OfficeOfKSKY/status/2111817847915909623) |
+| Individual X account (handle omitted) | Post associates an alleged diesel-shortage clip with Vetri Payanam; no independent confirmation or causal link to the scheme surfaced. Treat as an unverified service allegation, not evidence of a shortage. | [post](https://x.com/MyNa_Writes_/status/2111681083133825183) |
+
+No new ETM/conductor, reimbursement, or identified G.O. claim surfaced. No specific misinformation claim could be verified from this sample.
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
