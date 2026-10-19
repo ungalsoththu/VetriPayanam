@@ -195,6 +195,19 @@ Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற�
 
 No new ETM/conductor, reimbursement, or identified G.O. claim surfaced. No specific misinformation claim could be verified from this sample.
 
+### X scan — 18–19 Oct 2026 (last 24 hours)
+
+Small, non-representative sample on Magalir Vetri/Vettri Payanam (வெற்றி பயணம்) and its link to Vidiyal Payanam (விடியல் பயணம்). New posts continue the auto/private-transport livelihood narrative; they are worker or commentator claims, not measured causal impacts. One unsourced daily-loss figure and an alleged diesel-funding/withdrawal rumor circulated; neither was verified against official information. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @onlykodanki | 18 Oct, 20:21 IST — alleges a diesel-funding problem and suggests the government may abandon Vettri Payanam; unverified commentary, with no official confirmation found in this scan. | [post](https://x.com/onlykodanki/status/2111832463291064641) |
+| Individual X account (handle omitted) | 19 Oct, 05:53 IST — claims daily transport-department losses exceed ₹100 crore under Vetri Payanam, compared with ₹54 crore under Vidiyal Payanam; the post gives no source or methodology, so neither figure is verified. | [post](https://x.com/catis71851220/status/2111976546110173618) |
+| @tnpresstv | 19 Oct, 09:42 IST — says auto and private-bus workers' livelihoods are affected; this is a reported concern, not a measured statewide impact. | [post](https://x.com/tnpresstv/status/2112034194889314315) |
+| @jayapluschannel | 19 Oct, 09:43 IST — shares a Madurai auto driver's complaint about reduced business under Vetri Payanam; an attributed individual account, not an aggregate estimate. | [post](https://x.com/jayapluschannel/status/2112034384601924012) |
+
+No new verified G.O., reimbursement, ridership, or ETM figure surfaced. No specific misinformation correction was independently verifiable in this sample.
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
