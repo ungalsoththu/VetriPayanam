@@ -208,6 +208,16 @@ Small, non-representative sample on Magalir Vetri/Vettri Payanam (வெற்�
 
 No new verified G.O., reimbursement, ridership, or ETM figure surfaced. No specific misinformation correction was independently verifiable in this sample.
 
+### X scan — 19–20 Oct 2026 (last 24 hours)
+
+One fresh, supportive individual post argues that the scheme should not be abandoned and frames it as beneficial to women’s economic participation. This is one account’s opinion, not a representative sentiment shift or evidence of measured impact. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| Individual X account (handle omitted) | 20 Oct — says Magalir Vetri/Vettri Payanam (வெற்றி பயணம்) should continue and describes it as helping women’s economic development; supportive opinion, not a measured outcome. | [post](https://x.com/i/status/2112464040664670408) |
+
+No fresh X post in this sample provided a verified new G.O., reimbursement amount, ridership figure, or ETM/conductor finding.
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
