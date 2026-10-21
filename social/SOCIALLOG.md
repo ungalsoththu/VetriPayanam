@@ -218,6 +218,17 @@ One fresh, supportive individual post argues that the scheme should not be aband
 
 No fresh X post in this sample provided a verified new G.O., reimbursement amount, ridership figure, or ETM/conductor finding.
 
+### X scan — 20–21 Oct 2026 (last 24 hours)
+
+Small, non-representative sample on Magalir Vetri/Vettri Payanam (வெற்றி பயணம்) and legacy Vidiyal Payanam (விடியல் பயணம்). Multiple news accounts circulated a Rameswaram passenger’s allegation that a town bus did not stop when signalled, followed by a dispute with the crew. This adds a service-access and passenger-dignity complaint to the recent discourse; repost volume does not establish how common the issue is. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @polimernews | Reports a Rameswaram passenger’s allegation that a free-service bus failed to stop when signalled; an attributed incident, not verified as a broader pattern. | [post](https://x.com/polimernews/status/2112581273822928983) |
+| @jayapluschannel | Reports the same Rameswaram dispute, framing it as alleged disregard for women passengers on the free bus service; a separate news-account post about the incident, not independent confirmation. | [post](https://x.com/jayapluschannel/status/2112787501471740051) |
+
+No new verified G.O., reimbursement, ridership, or ETM figure surfaced in this scan.
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
