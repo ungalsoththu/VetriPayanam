@@ -229,6 +229,16 @@ Small, non-representative sample on Magalir Vetri/Vettri Payanam (வெற்�
 
 No new verified G.O., reimbursement, ridership, or ETM figure surfaced in this scan.
 
+### X scan — 21–22 Oct 2026 (last 24 hours)
+
+One post in this small sample criticizes Magalir Vetri/Vettri Payanam (வெற்றி பயணம்), asserting harm to private-transport and self-employed livelihoods and unsustainable state finances. It provides no supporting data; record as a political-economy narrative, not a measured impact or representative sentiment shift. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @ShivRamSetu | 21 Oct, 22:46 IST — argues that subsidized free travel displaces private transport and burdens public finances; claims are uncited commentary, not measured findings. | [post](https://x.com/i/status/2112956170445242863) |
+
+No new verified G.O., reimbursement, ridership, or ETM figure surfaced in this scan.
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
