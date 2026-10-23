@@ -239,6 +239,15 @@ One post in this small sample criticizes Magalir Vetri/Vettri Payanam (வெற
 
 No new verified G.O., reimbursement, ridership, or ETM figure surfaced in this scan.
 
+### X scan — 22–23 Oct 2026 (last 24 hours)
+
+Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற்றி பயணம்) and legacy Vidiyal Payanam (விடியல் பயணம்). One post alleges poor bus-stop/service connectivity in parts of Chennai in the context of the scheme; this is an unverified local access complaint, not evidence of scheme-caused route changes. Another post expresses a positive impression of women using the service, but is anecdotal. In this X sample, no new conductor/ETM, reimbursement, G.O., or misinformation claim surfaced. No rider names, journey details, or personal data recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| Individual X account (handle omitted) | Alleges inadequate bus-stop/service connectivity in parts of Chennai; an individual local-access complaint, not evidence of a scheme-wide gap or scheme-caused route changes. | [post](https://x.com/i/status/2113540289206038981) |
+| Individual X account (handle omitted) | Positive impression of women using Magalir Vetri/Vettri Payanam; one anecdotal observation, not representative ridership evidence. Personal route and fare details omitted. | [post](https://x.com/i/status/2113514758439928214) |
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
