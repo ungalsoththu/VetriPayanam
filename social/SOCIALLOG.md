@@ -248,6 +248,19 @@ Small, non-representative sample about Magalir Vetri/Vettri Payanam (வெற�
 | Individual X account (handle omitted) | Alleges inadequate bus-stop/service connectivity in parts of Chennai; an individual local-access complaint, not evidence of a scheme-wide gap or scheme-caused route changes. | [post](https://x.com/i/status/2113540289206038981) |
 | Individual X account (handle omitted) | Positive impression of women using Magalir Vetri/Vettri Payanam; one anecdotal observation, not representative ridership evidence. Personal route and fare details omitted. | [post](https://x.com/i/status/2113514758439928214) |
 
+### X scan — 23–24 Oct 2026 (last 24 hours)
+
+Small, non-representative sample on Magalir Vetri/Vettri Payanam (மகளிர் வெற்றி பயணம்) and legacy Vidiyal Payanam (விடியல் பயணம்). A Pudukkottai post reports an advocacy protest seeking disability inclusion; separate posts renew auto-driver livelihood concerns, but offer no measured income data or evidence that the scheme caused a wider loss. TNIE's ~90-lakh daily figure was amplified by its X account; the article says repeat trips are included, while the post calls these passenger trips. With no underlying dataset, this is not a unique-rider count and is not added to metrics. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @news7tamil | 23 Oct, 20:45 IST — reports a Pudukkottai protest seeking disability inclusion in Vetri Payanam; banner dates the protest 22 Oct. Advocacy demand, not a policy change. | [post](https://x.com/news7tamil/status/2113650403371843643) |
+| @xpresstn | 24 Oct, 09:00 IST — amplifies TNIE's ~90-lakh daily figure and possible future inter-State expansion; repeat journeys are included in the article's count, and no underlying dataset is given. | [post](https://x.com/xpresstn/status/2113835375051362775) |
+| @vetridhaasan | 24 Oct, 16:57 IST — shares a News18 video framed as an auto driver's livelihood protest linked to the scheme; one reported anecdote, not earnings evidence. | [post](https://x.com/vetridhaasan/status/2113955436777160754) |
+| @jayapluschannel | 24 Oct, 18:11 IST — frames an auto driver's free-ride promotion as a satirical “Tholvi Payanam” response; livelihood discourse, not independent evidence of scheme impact. | [post](https://x.com/jayapluschannel/status/2113974205792604195) |
+
+No new verified G.O., reimbursement amount, or ETM finding surfaced in this scan.
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
