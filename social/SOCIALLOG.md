@@ -261,6 +261,17 @@ Small, non-representative sample on Magalir Vetri/Vettri Payanam (மகளி�
 
 No new verified G.O., reimbursement amount, or ETM finding surfaced in this scan.
 
+### X scan — 24–25 Oct 2026 (last 24 hours)
+
+Small, non-representative sample on Magalir Vetri/Vettri Payanam (மகளிர் வெற்றி பயணம்), the expanded Vidiyal Payanam (விடியல் பயணம்) scheme. Two posts raise operational concerns: one alleges livestock on a passenger bus; another claims cancellations/fuel constraints and warns of late-night safety risks. Neither claim is independently corroborated; they are social-media reports, not evidence of a scheme-wide practice or verified service cuts. No rider identities or personal details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @jkgche | 24 Oct, 20:48 IST — alleges livestock were being transported in a passenger bus under #VetriPayanam; no route/corporation details or corroboration in the post. | [post](https://x.com/jkgche/status/2114013595826827359) |
+| @teacharrgekadai | 24 Oct, 22:00 IST — alleges fuel/operating constraints and cancelled trips under the free-bus scheme, and raises a late-night safety concern; unverified opinion, not measured service or financial evidence. | [post](https://x.com/teacharrgekadai/status/2114031785294319740) |
+
+No new verified G.O., reimbursement amount, ridership, or ETM finding surfaced in this scan.
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
