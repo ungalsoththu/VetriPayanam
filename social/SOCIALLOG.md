@@ -272,6 +272,18 @@ Small, non-representative sample on Magalir Vetri/Vettri Payanam (மகளி�
 
 No new verified G.O., reimbursement amount, ridership, or ETM finding surfaced in this scan.
 
+### X scan — 25–26 Oct 2026 (last 24 hours)
+
+Small, non-representative sample on Magalir Vetri/Vettri Payanam (மகளிர் வெற்றி பயணம்) and Vidiyal Payanam (விடியல் பயணம்). Posts voiced service-reliability concerns, including a rainy-day complaint and an opposition-aligned “bus does not come” claim; these are not independently verified and do not establish scheme-caused service cuts. Polimer News relayed an advocacy request to include people with dwarfism in the free-travel scheme; this is a demand, not an eligibility change. No new primary G.O., verified reimbursement, ETM issue, or audited ridership figure surfaced on X. No rider identities or personal journey details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @INDTAMIL24x7 | 26 Oct, 13:38 IST — asks whether launching buses is enough after a video shows people struggling in rain; the post does not independently establish the cause or a scheme-wide service issue. | [post](https://x.com/INDTAMIL24x7/status/2114630174130213042) |
+| @polimernews | 26 Oct, 12:05 IST — reports a request to include people with dwarfism in Vetri Payanam and increase their allowance; advocacy demand, not a policy change. | [post](https://x.com/polimernews/status/2114606880853270848) |
+| Individual opposition-aligned account (handle omitted) | 26 Oct, 08:46 IST — says buses do not arrive under Vetri Payanam; video-backed political claim, with no route or independent verification in the post. | [post](https://x.com/admk_selva_/status/2114556796514037946) |
+
+No new verified G.O., reimbursement amount, ridership, or ETM finding surfaced in this scan.
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
