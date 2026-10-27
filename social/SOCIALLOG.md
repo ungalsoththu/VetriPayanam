@@ -284,6 +284,16 @@ Small, non-representative sample on Magalir Vetri/Vettri Payanam (மகளி�
 
 No new verified G.O., reimbursement amount, ridership, or ETM finding surfaced in this scan.
 
+### X scan — 26–27 Oct 2026 (last 24 hours)
+
+Small, non-representative sample on Magalir Vetri/Vettri Payanam (மகளிர் வெற்றி பயணம்). One late-caught post from the previous window alleges reduced peak-hour bus frequency; it is a personal complaint, not measured service data. IANS relayed a Tiruvarur auto-workers' protest demanding free fuel for scheme-affected drivers — logged in the news file. No new primary G.O., verified reimbursement, ETM issue, or audited ridership figure surfaced on X. No rider identities or personal journey details recorded.
+
+| Handle | Frame | Post |
+| --- | --- | --- |
+| @imuraliravi | 26 Oct, 08:49 IST (late catch from the 25–26 Oct window) — alleges peak-hour bus frequency fell "due to Vetri payanam", tagging the Chief Minister's and Transport Minister's handles; personal complaint with no route or service data given. | [post](https://x.com/imuraliravi/status/2114557398082068633) |
+
+No new verified G.O., reimbursement amount, ridership, or ETM finding surfaced in this scan.
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
