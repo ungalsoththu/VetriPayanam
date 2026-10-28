@@ -294,6 +294,14 @@ Small, non-representative sample on Magalir Vetri/Vettri Payanam (மகளி�
 
 No new verified G.O., reimbursement amount, ridership, or ETM finding surfaced in this scan.
 
+### X scan — 27–28 Oct 2026 (last 24 hours)
+
+The day's traffic is dominated by PMK leader Anbumani Ramadoss's statement demanding advance monthly release of Vetri Payanam (வெற்றி பயணம்) funds — relayed by Nakkheeran and Tamil The Hindu — and the first driver reactions to the 27 Oct auto fare revision, with a Palani auto driver telling IANS the new fares are insufficient and calling the scheme a livelihood threat. All figures in circulation are attributed political claims, not official data. No rider identities or personal journey details were recorded; no new G.O., reimbursement record, or ridership claim surfaced on X.
+
+| 28 Oct | @nakkheeranweb (Nakkheeran) | Relays Anbumani's claim that the state transport corporations owe oil companies about ₹150 crore for diesel bought on credit since Vetri Payanam's launch and questions how corporations will meet daily costs; political statement, not a payment record. | [post](https://x.com/nakkheeranweb/status/2115321474643104128) |
+| 28 Oct | @TamilTheHindu (Tamil The Hindu) | Promotes its Tamil report on Anbumani's demand that the TVK government release Vetri Payanam funds; same statement as the IANS wire copy, amplifying the funding-delay framing across the Tamil press. | [post](https://x.com/TamilTheHindu/status/2115329541837406336) |
+| 28 Oct | @ians_india (IANS) | Palani auto driver on the fare revision announced the previous day: maintenance costs have doubled, the revised fares are insufficient, and Vetri Payanam has threatened livelihoods; individual attributed reaction to the scheme's spillover. | [post](https://x.com/ians_india/status/2115351509210890701) |
+
 ## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
