@@ -302,7 +302,16 @@ The day's traffic is dominated by PMK leader Anbumani Ramadoss's statement deman
 | 28 Oct | @TamilTheHindu (Tamil The Hindu) | Promotes its Tamil report on Anbumani's demand that the TVK government release Vetri Payanam funds; same statement as the IANS wire copy, amplifying the funding-delay framing across the Tamil press. | [post](https://x.com/TamilTheHindu/status/2115329541837406336) |
 | 28 Oct | @ians_india (IANS) | Palani auto driver on the fare revision announced the previous day: maintenance costs have doubled, the revised fares are insufficient, and Vetri Payanam has threatened livelihoods; individual attributed reaction to the scheme's spillover. | [post](https://x.com/ians_india/status/2115351509210890701) |
 
-## Vidiyal-era social baselines (pre-Oct)
+### X scan — 28–29 Oct 2026 (last 24 hours)
+
+The window is dominated by amplification of the government order extending Vetri Payanam (வெற்றி பயணம்) to persons with disabilities and one escort (issued 27 Oct per press reports). TVK-aligned handles frame it as proactive good governance and highlight the AC-bus exclusion; neutral aggregator accounts relay the "order issued" claim without citing a G.O. number; Telugu-language accounts amplified the news beyond Tamil media within a day. No contrary narratives, misinformation claims, or viral complaints surfaced in the sample, and no rider personal data was recorded.
+
+| 29 Oct | @UpdatesChennai (Chennai Updates) | Relays the claim that the government has issued an order permitting persons with disabilities and one escort to travel free under Vetri Payanam (வெற்றி பயணம்); neutral framing, no G.O. number. | [post](https://x.com/UpdatesChennai/status/2115659497255621102) |
+| 29 Oct | @Prem_Moorthy (Premkumar Moorthy) | Pro-scheme praise: "TN Govt officially expands the scheme so differently abled passengers can now travel completely free in govt buses" with the AC-exclusion caveat; TVK-aligned sentiment frame. | [post](https://x.com/Prem_Moorthy/status/2115614354205016428) |
+| 29 Oct | @Dr_SJeyakkannan | Announces the disability expansion with the AC-exclusion caveat; repeats the order-issued claim. | [post](https://x.com/Dr_SJeyakkannan/status/2115637147818758475) |
+| 29 Oct | @CineChitraalu (Telugu Chitraalu) | Telugu-language amplification of the disability-expansion order — the story crossed language boundaries within a day of the G.O. | [post](https://x.com/CineChitraalu/status/2115734248481284560) |
+
+## Vidiyal-era social baselines (pre-Oct)## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
 - TNDIPR reel: "69.75 lakh trips per day" under Vidiyal — reconcile with Transport Dept's ~70 lakh/day figure. Consistent.
