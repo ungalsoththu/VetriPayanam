@@ -311,7 +311,15 @@ The window is dominated by amplification of the government order extending Vetri
 | 29 Oct | @Dr_SJeyakkannan | Announces the disability expansion with the AC-exclusion caveat; repeats the order-issued claim. | [post](https://x.com/Dr_SJeyakkannan/status/2115637147818758475) |
 | 29 Oct | @CineChitraalu (Telugu Chitraalu) | Telugu-language amplification of the disability-expansion order — the story crossed language boundaries within a day of the G.O. | [post](https://x.com/CineChitraalu/status/2115734248481284560) |
 
-## Vidiyal-era social baselines (pre-Oct)## Vidiyal-era social baselines (pre-Oct)
+### X scan — 29–30 Oct 2026 (last 24 hours)
+
+Day-two tail of the disability-extension story: mainstream Tamil handles (TNIE Tamil Nadu) and explainer aggregators relay the mechanics — UDID verification, zero-fare tickets, 28 Oct effective date — with positive/neutral framing and no contestation. The notable shift is in print, not on X: Samayam Tamil's 30 Oct financial autopsy (Policy-Note figures) openly argues for restricting the scheme to low-income women — the first Times-group Tamil editorial line against universal eligibility, likely to seed means-testing talking points. The South First is the first account in the sample to cite the G.O. number (No. 18, Welfare of Differently Abled Persons Dept). No misinformation claims, no rider PII recorded.
+
+| 29 Oct | @TheSouthfirst (The South First) | First outlet in the sample to cite the order as GO No. 18 (Welfare of Differently Abled Persons Department, 27 Oct 2026) with the 40% benchmark-disability threshold — closes the G.O.-number gap every other account left open. | [post](https://x.com/TheSouthfirst/status/2115672273306931660) |
+| 30 Oct | @xpresstn (TNIE Tamil Nadu) | Amplifies its report that TN extends free bus travel to persons with disabilities and one escort across state-run buses excluding AC — mainstream day-two cross-post keeping the story in Tamil feeds. | [post](https://x.com/xpresstn/status/2116130496950181967) |
+| 30 Oct | @dailymattr_news (dailymattr) | Explainer-style relay of the 27 Oct order: 100% concession on the 16-digit UDID, one escort free, conductors issue zero-fare tickets, AC buses excluded — mechanics dissemination, no pushback. | [post](https://x.com/dailymattr_news/status/2116134816865468645) |
+
+## Vidiyal-era social baselines (pre-Oct)
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
 - TNDIPR reel: "69.75 lakh trips per day" under Vidiyal — reconcile with Transport Dept's ~70 lakh/day figure. Consistent.
