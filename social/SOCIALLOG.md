@@ -328,3 +328,15 @@ Day-two tail of the disability-extension story: mainstream Tamil handles (TNIE T
 
 - TNDIPR Instagram: launched 2021, "769 crore free journeys" cumulative claim (reel, date TBC) — locate + date.
 - TNDIPR reel: "69.75 lakh trips per day" under Vidiyal — reconcile with Transport Dept's ~70 lakh/day figure. Consistent.
+
+## 2026-11 (November)
+
+### X scan — 31 Oct – 1 Nov 2026 window (last 24 hours)
+
+The 72.64→89.99 lakh/day ridership disclosure (logged 31 Oct) is now the dominant pro-scheme artifact: TVK-aligned fan pages and meme/general-audience networks amplified it through 1 Nov, carrying the government's funding-crisis rebuttal well beyond news handles. An @grok AI-summary post is circulating "delayed payouts / cash-flow strain on corporations" and "~70% MTC occupancy" as context without a primary source — logged as a signal of what the AI-summary layer tells users, not as evidence. No new misinformation claims or rider PII recorded.
+
+| Date | Handle | Note | Post |
+| --- | --- | --- | --- |
+| 31 Oct–1 Nov | @ActorVijayTeam (CM fan page) | Amplifies the 72.64→89.99 lakh/day ridership jump (+17.35 lakh, 23.88%) — the state's rebuttal now propagating through fan networks (160 likes, 37 reposts at scan time). | [post](https://x.com/ActorVijayTeam/status/2116570654149615711) |
+| 31 Oct–1 Nov | @memeschennai | Same ridership figure relayed to a meme/general-audience network — mainstreaming of the counter-narrative beyond political accounts. | [post](https://x.com/memeschennai/status/2116848290549620754) |
+| 31 Oct–1 Nov | @grok | AI-summary post: ~₹6,000 cr/yr reimbursement cost, "recent cash-flow strain on corporations from delayed payouts", "MTC occupancy ~70%" — unverified circulating claims presented as context; useful to track what the AI-summary layer surfaces, not evidence. | [post](https://x.com/grok/status/2116524707298087280) |
