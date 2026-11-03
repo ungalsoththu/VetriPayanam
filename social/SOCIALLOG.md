@@ -343,3 +343,12 @@ The 72.64→89.99 lakh/day ridership disclosure (logged 31 Oct) is now the domin
 ### X scan — 2 Nov 2026 window (last 24 hours)
 
 Quiet window: amplification of the 72.64→89.99 lakh/day disclosure (logged 31 Oct–1 Nov) continues; no new scheme post with a retrievable URL surfaced. A driver/conductor-account reply on the Tamil Janam ridership post (@veluran, 2 Nov ~04:00 IST) alleging Koyambedu-area route cancellations (18-E/17-D Ashok Nagar, Vandalur, "Green Line") appeared in scan summaries but could not be pinned to a retrievable post URL at scan time — unverified individual claim, parked here so the next window can re-pin it or drop it. MTC's official handle issued three service-discipline replies today (buses not stopping at designated stops; conductor/crew counselling) to untagged rider complaints — ordinary MTC grievances, not scheme-tagged; pattern note only. No rider PII recorded.
+
+### X scan — 3 Nov 2026 window (last 24 hours)
+
+Window dominated by today's crew-compensation GO (news file, GO-INDEX row 10): Thanthi TV's "டபுள் கொண்டாட்ட அறிவிப்பு" post frames the double collection incentive (இரட்டிப்பு வசூல் படி) as a double win — scheme services get the concession AND crew get paid — with News18 Tamil Nadu carrying it as a "Just Now" breaking video; regional channels (Velicham TV etc.) relayed the same line. Sentiment signal: after four weeks of crew-side grievance reporting (வசூல் படி halved), the framing has flipped pro-crew at announcement time — watch for follow-up complaints on implementation (who qualifies as "additional service" crew, corporation-borne cost vs reimbursement queue). Yesterday evening (2 Nov, post-watch) carried a TVK volunteer's constituent bus-service appeal and a CM Pudukkottai visit fan post (welfare distribution ₹62.73 cr / 13,676 beneficiaries — general welfare event, not scheme-tagged); neither is scheme material. No rider PII recorded.
+
+| Date | Handle | Note | Post |
+| --- | --- | --- | --- |
+| 3 Nov 15:55 | @ThanthiTV | Breaks the double collection incentive GO — "டபுள் கொண்டாட்ட அறிவிப்பு": scheme's additional services get the concession; Express/LSS crew get படி, extended to Deluxe/mofussil; corporations bear cost. | [post](https://x.com/ThanthiTV/status/2117563853680607591) |
+| 3 Nov ~16:00 | News18 Tamil Nadu (FB) | "Just Now" breaking video of the same GO — crew-incentive framing amplified across channels within minutes. | [post](https://www.facebook.com/News18TamilNadu/posts/1587099826785533) |
