@@ -394,3 +394,11 @@ Window dominated by the Pudukkottai fare-collection story (news file, 7 Nov row)
 | Date | Handle | Note | Post |
 | --- | --- | --- | --- |
 | 7 Nov ~15:47 | @nakkheeranweb (Nakkheeran) | Pudukkottai fare-collection complaint: "முன் அறிவிப்பு இல்லாமல் வெற்றிப் பயண பேருந்துகளில் கட்டணம் வசூலிக்கப்படுகிறது" — fares collected without advance notice on scheme buses run as Deepavali specials; women without cash stranded after boarding; #pudukkottai #tnstc #VetriPayanamThittam; viral Alangudi ticket photo (details in news file). | [post](https://x.com/nakkheeranweb/status/2119012031835877703) |
+
+### X scan — 8 Nov 2026 window (last 24 hours)
+
+Deepavali day window dominated by follow-through on the Pudukkottai fare-collection story (news file, 7–8 Nov rows): the depot-manager "fares may have been collected, inquiry ordered" response is now on record; no new viral fare-collection complaints surfaced in this pass. Rest is general freebie-debate chatter, including an out-of-state handle amplifying the misuse narrative; no ridership or reimbursement claims, no rider PII recorded.
+
+| Date | Handle | Note | Post |
+| --- | --- | --- | --- |
+| 8 Nov window | @AshwinKannadiga | Misuse/abuse narrative from an out-of-state (Karnataka) handle: "When you give something for free - people are going to abuse and mis-use it… a lot of women are travelling for excursions/unnecessary purposes… causing problems to people traveling for work, conductors & tax-payers" — generic freebie critique attached to the scheme; exemplifies the misuse framing now circulating beyond TN. | [post](https://x.com/AshwinKannadiga/status/2119411491632025963) |
