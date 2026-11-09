@@ -402,3 +402,13 @@ Deepavali day window dominated by follow-through on the Pudukkottai fare-collect
 | Date | Handle | Note | Post |
 | --- | --- | --- | --- |
 | 8 Nov window | @AshwinKannadiga | Misuse/abuse narrative from an out-of-state (Karnataka) handle: "When you give something for free - people are going to abuse and mis-use it… a lot of women are travelling for excursions/unnecessary purposes… causing problems to people traveling for work, conductors & tax-payers" — generic freebie critique attached to the scheme; exemplifies the misuse framing now circulating beyond TN. | [post](https://x.com/AshwinKannadiga/status/2119411491632025963) |
+
+### X scan — 9 Nov 2026 window (last 24 hours)
+
+New narrative thread: the CM's ₹500 cr / 1,000 AC e-bus order for MTC (news file, 9 Nov) drew riders within hours asking why the fleet is expanding in the one class the scheme does not cover — AC. One post framed it as the scheme being "reduced"; no report supports any reduction, logged as sentiment only. No fare-collection follow-ups this window; no rider PII recorded.
+
+| Date | Handle | Note | Post |
+| --- | --- | --- | --- |
+| 9 Nov | @DeviYogha | AC expansion vs scheme gap complaint, quoting the CMO order post: "increasing AC buses n reducing Magalir vettri payanam ???" — no source offered for any reduction; AC buses were never inside the scheme, so logged as sentiment, not fact. | [post](https://x.com/DeviYogha/status/2119758321091858940) |
+| 9 Nov | @alterego_tvk (Prakasam) | AC-exclusion complaint: "sotta, apo vettri payanam? women AC bus la allowed ilayae" — same gap framing from a TVK-aligned handle; the AC-exclusion rule (known since launch) now visibly stings as AC fleet grows. | [post](https://x.com/alterego_tvk/status/2119767087086456908) |
+| 9 Nov | @BhaRanI_SLbG (Bharanidharan S) | Sustainability question: relays "according to media reports, combined daily losses around ₹10 crore" (media-claim relay, not an official figure) and asks whether promised funds have actually reached the STCs since the expansion — the reimbursement-queue question keeps recurring from citizens; no new evidence in the post. | [post](https://x.com/BhaRanI_SLbG/status/2119728906060042482) |
